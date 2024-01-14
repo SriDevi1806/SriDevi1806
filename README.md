@@ -6,9 +6,6 @@
 - https://twitter.com/sridevi18
 - https://www.instagram.com/manth.dada/
 - uniquesridevi0629@gmail.com
-- 
--https://replit.com/@uniquesridevi06?path=multiplayer
-<!---
 SriDevi1806/SriDevi1806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
