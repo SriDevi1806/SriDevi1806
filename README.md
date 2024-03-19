@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me ...
-- https://www.linkedin.com/in/sri-devi-490132264/
+- https://www.linkedin.com/in/sri-devi-marlothu/
 - https://twitter.com/SriDevi84210930
 - https://www.instagram.com/manth.dada/
 - uniquesridevi0629@gmail.com
