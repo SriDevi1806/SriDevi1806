@@ -25,5 +25,5 @@ Thanks for visiting feel free to explore my work or connect to collaborate!
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Reactjs
 - 📫 How to reach me ...
-- https://www.linkedin.com/in/sri-devi-marlothu/
+
 - uniquesridevi0629@gmail.com
