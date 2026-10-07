@@ -1,29 +1,46 @@
-👋 Welcome to My GitHub
-I'm a Computer Science Engineering student specializing in Data Science, with practical experience in Web Development, AI/ML, and full-stack product development.
+# 👋 Hi, I'm SriDevi Marlothu
 
-Currently working as a Freelance Developer at JatayuAI, where I contribute to building intelligent travel solutions powered by AI.
+I'm an **AI/ML Engineer** with a B.Tech in Computer Science Engineering, specializing in **Data Science**.
 
-🔧 Technical Expertise:
-React, Node.js, Express.js, MongoDB, Python HTML, CSS, JavaScript, and AI technologies including NLP and Large Language Models (LLMs).
+I’m interested in building practical AI solutions using **Machine Learning, Generative AI, NLP, LLMs, and Python**.
 
-📌 Previous Internships:
+## 🤖 What I Work With
 
-Code Vertex – Frontend Web Development
+* **AI/ML:** Machine Learning, Generative AI, NLP, LLMs, Computer Vision
+* **Programming:** Python, JavaScript, SQL
+* **AI Tools & Frameworks:** TensorFlow, Scikit-learn, OpenCV, Hugging Face
+* **Backend:** FastAPI, Node.js
+* **Frontend:** React.js, HTML, CSS
+* **Databases:** MongoDB, SQL
+* **Tools:** Git, GitHub, Streamlit
 
-AIMER & Indian Servers – Machine Learning & Full-Stack Development
+## 🚀 Projects
 
-I’m passionate about creating scalable, data-driven applications that solve real-world problems at the intersection of technology and strategy.
+I enjoy building AI-driven applications such as:
 
-🔍 Open to full-time opportunities in Web Development or AI/ML, where I can deliver impact and grow alongside innovative teams.
+* 🧠 **AI-Powered Text Summarization** — NLP, Hugging Face Transformers, Pegasus, FastAPI
+* 🤖 **AI Chatbots** — NLP, LLMs, Python
+* 👁️ **Computer Vision Applications** — OpenCV, YOLO, TensorFlow
+* 📚 **Personalized Book Recommendation System** — Python, Machine Learning, Streamlit
+* 💬 **Real-Time Chat Application** — MERN Stack, Socket.IO
 
-Thanks for visiting feel free to explore my work or connect to collaborate!
+## 💼 Experience
 
+I have experience across **AI/ML, machine learning, web development, and data-driven applications** through professional work, internships, and freelance projects.
 
+Currently working in an **AI/ML role at Wells Fargo**, with a focus on growing deeper in **Generative AI, LLM-based applications, and intelligent AI solutions**.
 
+## 🎯 Career Focus
 
-- 👋 Hi, I’m @SriDevi1806
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Reactjs
-- 📫 How to reach me ...
+I’m currently focused on opportunities in:
 
-- uniquesridevi0629@gmail.com
+**Generative AI • AI/ML Engineering • Machine Learning • NLP • LLM Applications**
+
+I’m passionate about learning, building real-world solutions, and solving problems with AI.
+
+## 📫 Connect With Me
+
+* 🌐 Portfolio: https://sridevii.netlify.app
+* 💼 LinkedIn: SriDevi Marlothu
+
+⭐ Feel free to explore my repositories and projects!
