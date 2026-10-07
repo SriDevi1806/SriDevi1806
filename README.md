@@ -18,11 +18,11 @@ I’m interested in building practical AI solutions using **Machine Learning, Ge
 
 I enjoy building AI-driven applications such as:
 
-* 🧠 **AI-Powered Text Summarization** — NLP, Hugging Face Transformers, Pegasus, FastAPI
-* 🤖 **AI Chatbots** — NLP, LLMs, Python
-* 👁️ **Computer Vision Applications** — OpenCV, YOLO, TensorFlow
-* 📚 **Personalized Book Recommendation System** — Python, Machine Learning, Streamlit
-* 💬 **Real-Time Chat Application** — MERN Stack, Socket.IO
+* 🧠 **AI-Powered Text Summarization** NLP, Hugging Face Transformers, Pegasus, FastAPI
+* 🤖 **AI Chatbots**  NLP, LLMs, Python
+* 👁️ **Computer Vision Applications** OpenCV, YOLO, TensorFlow
+* 📚 **Personalized Book Recommendation System**  Python, Machine Learning, Streamlit
+* 💬 **Real-Time Chat Application**  MERN Stack, Socket.IO
 
 ## 💼 Experience
 
